@@ -3,6 +3,7 @@ This is a brew cask tap repository for unofficial app/font casks I personally us
 
 ### Casks
 - Popcorn Time
+- Patterns
 
 ### Fonts
 - Sansie
