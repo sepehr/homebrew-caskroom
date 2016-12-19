@@ -1,11 +1,11 @@
-# Homebrew Cask Tap For Custom Formulaes
-This is a brew cask tap repository for not-officially supported apps and fonts I personally use. Please note that this repo does not host any of these apps or fonts. It just links to them on external resources.
+# Custom Homebrew Cask Tap
+This is a brew cask tap repository for unofficial app/font casks I personally use. Please note that this repo does not host any apps or fonts, it just provides homebrew formulaes that links to them on external resources.  
 
-## Currently Available Casks
+### Casks
 - Popcorn Time
 
-## Fonts
-- Iranian Sans
+### Fonts
+- Sansie
 
 ## Installation
 ```shell
