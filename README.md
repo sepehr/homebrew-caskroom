@@ -6,6 +6,7 @@ This is a brew cask tap repository for unofficial app/font casks I personally us
 brew tap sepehr/caskroom
 ```
 
+## Casks
 ### Apps
 - popcorn-time
 - patterns
