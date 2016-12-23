@@ -8,8 +8,9 @@ brew tap sepehr/caskroom
 
 ## Casks
 ### Apps
-- popcorn-time
+- google-chrome-canary
 - patterns
+- popcorn-time
 
 ### Fonts
 - font-sansie
