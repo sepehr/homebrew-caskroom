@@ -8,6 +8,7 @@ brew tap sepehr/caskroom
 
 ## Casks
 ### Apps
+- firefox-47
 - google-chrome-canary
 - patterns
 - popcorn-time
