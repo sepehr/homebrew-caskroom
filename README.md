@@ -12,6 +12,8 @@ brew tap sepehr/caskroom
 - google-chrome-canary
 - patterns
 - popcorn-time
+- english-persian-dictionary
+- persian-english-dictionary
 
 ### Fonts
 - font-sansie
