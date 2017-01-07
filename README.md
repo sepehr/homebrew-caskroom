@@ -8,21 +8,22 @@ brew tap sepehr/caskroom
 
 ## Casks
 ### Apps
+- english-persian-dictionary
 - firefox-47
 - google-chrome-canary
 - patterns
-- popcorn-time
-- english-persian-dictionary
 - persian-english-dictionary
+- popcorn-time
 
 ### Fonts
 - font-sansie
 
 ### Merged
-These casks are merged into the main caskroom repos:  
+These casks have been merged into the main caskroom repos:  
 
 - airvpn
-- zeronet
 - font-iranian-sans
 - font-iranian-serif
 - font-vazir-code
+- kerio-control-vpn-client
+- zeronet
