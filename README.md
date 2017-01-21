@@ -17,6 +17,7 @@ brew tap sepehr/caskroom
 
 ### Fonts
 - font-sansie
+- font-average-mono
 
 ### Merged
 These casks have been merged into the main caskroom repos:  
