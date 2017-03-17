@@ -26,5 +26,6 @@ These casks have been merged into the main caskroom repos:
 - font-iranian-sans
 - font-iranian-serif
 - font-vazir-code
+- hint
 - kerio-control-vpn-client
 - zeronet
