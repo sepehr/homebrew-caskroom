@@ -22,6 +22,7 @@ brew tap sepehr/caskroom
 These casks have been merged into the main caskroom repos:  
 
 - airvpn
+- devcolor
 - font-average-mono
 - font-iranian-sans
 - font-iranian-serif
