@@ -9,6 +9,7 @@ brew tap sepehr/caskroom
 ## Casks
 ### Apps
 - beam
+- bitgapp-eqmac
 - devcolor
 - english-persian-dictionary
 - firefox-47
