@@ -9,7 +9,6 @@ brew tap sepehr/caskroom
 ## Casks
 ### Apps
 - beam
-- bitgapp-eqmac
 - devcolor
 - english-persian-dictionary
 - firefox-47
@@ -31,4 +30,5 @@ These casks have been merged into the main caskroom repos:
 - font-vazir-code
 - hint
 - kerio-control-vpn-client
+- romankisil-eqmac
 - zeronet
