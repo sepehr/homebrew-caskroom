@@ -12,7 +12,6 @@ brew tap sepehr/caskroom
 - devcolor
 - english-persian-dictionary
 - firefox-47
-- google-chrome-canary
 - patterns
 - persian-english-dictionary
 - popcorn-time
